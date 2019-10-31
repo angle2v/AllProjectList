@@ -14,3 +14,5 @@
 ### Content - Using an Elastic Search Search Engine Using data called bank Create a mini-project that uses a query statement to catch voice phishers
 ### 08 - [Floating-Population](https://github.com/angle2v/Floating-Population)
 ### Content - Development of miniproject logic using java-jpa by receiving regional floating population data from
+### 09 - [INSSAProject](https://github.com/angle2v/INSSAProject)
+### Content - 이 서비스에서는 핫플레이스를 소개하되, 지금 당장이 아니라 앞으로 핫해질 것이라 예상되는 지역들을 발굴하여 먼저 알려주는 트렌드 예측 서비스를 지향한다.
