@@ -1,4 +1,4 @@
-# Encore PlayData<br> 빅데이터 전문가 양성 과정 수료중<br>진행하였던 모든 팀프로젝트 
+## Encore [PlayData](https://playdata.io/)(<br> 빅데이터 전문가 양성 과정 수료중<br>진행하였던 모든 팀프로젝트 
 ### 01 - [UsedCarMarket](https://github.com/angle2v/UsedCarMarket)
 ### Content - Weaving logic with used car market mvc pattern
 ### 02 - [ArthdalChronicles](https://github.com/angle2v/ArthdalChronicles)
